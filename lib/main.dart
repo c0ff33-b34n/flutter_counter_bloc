@@ -1,5 +1,4 @@
 import 'package:counter_app_wth_bloc/counter_event.dart';
-import 'package:counter_app_wth_bloc/counter_state.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
